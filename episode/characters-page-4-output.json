@@ -1,0 +1,24 @@
+{
+  "characters": {
+    "info": {
+      "count": 826,
+      "pages": 42,
+      "next": 5,
+      "prev": 3
+    },
+    "results": [
+      {
+        "id": "61",
+        "name": "Agency Director",
+        "status": "Dead",
+        "species": "Human"
+      },
+      {
+        "id": "62",
+        "name": "Alan Rails",
+        "status": "Dead",
+        "species": "Human"
+      }
+    ]
+  }
+}
